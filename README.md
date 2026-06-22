@@ -31,6 +31,8 @@ Polynomial Trajectory Prediction
     ├──→  Rule Engine (MCC Law 36)  ──→  Verdict
     └──→  Ensemble ML (XGBoost + RF) ──→  Verdict
 ```
+<img width="453" height="124" alt="image" src="https://github.com/user-attachments/assets/abdfa5ef-b2da-4968-b61e-25081ab7431e" />
+
 
 ---
 
