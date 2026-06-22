@@ -43,17 +43,7 @@ Polynomial Trajectory Prediction
 - **Ensemble ML** — XGBoost + Random Forest trained with SMOTE class balancing
 - **MCC Law 36 Engine** — Pitch in line + Impact in line + Hitting stumps → OUT
 
----
 
-## 📊 Performance
-
-| Model | Accuracy | F1 Score |
-|-------|----------|----------|
-| Random Forest | 0.893 | 0.887 |
-| XGBoost | 0.912 | 0.905 |
-| YOLOv8 (mAP50) | 0.648 | — |
-
----
 
 ## 🗂️ Project Structure
 
