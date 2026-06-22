@@ -45,6 +45,9 @@ Polynomial Trajectory Prediction
 - **Ensemble ML** — XGBoost + Random Forest trained with SMOTE class balancing
 - **MCC Law 36 Engine** — Pitch in line + Impact in line + Hitting stumps → OUT
 
+<img width="512" height="281" alt="image" src="https://github.com/user-attachments/assets/e72a41f1-b2f3-4c2d-a2ce-284044af74b8" />
+
+
 
 
 ## 🗂️ Project Structure
